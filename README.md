@@ -45,7 +45,7 @@
 
  ---
  
- ### Выполнения задания 2
+ ### Выполнения задания 3
  
  ![screen4](https://github.com/elekpow/hw-05/blob/main/Endpoint.JPG)  
  
