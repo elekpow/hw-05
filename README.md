@@ -12,7 +12,7 @@
 
 ### Выполнения задания 1
 
-
+ ![screen1](https://github.com/elekpow/hw-05/blob/main/Prometheus-Pending.JPG)  
 
  ---
 
@@ -25,6 +25,13 @@
  ---
 
 ### Выполнения задания 2
+
+ ![screen1](https://github.com/elekpow/hw-05/blob/main/Prometheus-Fireing.JPG)  
+ 
+ 
+  ![screen1](https://github.com/elekpow/hw-05/blob/main/Alertmanager-Instance-Down.JPG)  
+
+
 
 
  ---
