@@ -29,7 +29,7 @@
  ![screen1](https://github.com/elekpow/hw-05/blob/main/Prometheus-Fireing.JPG)  
  
  
-  ![screen1](https://github.com/elekpow/hw-05/blob/main/Alertmanager-Instance-Down.JPG)  
+  ![screen2](https://github.com/elekpow/hw-05/blob/main/Alertmanager-Instance-Down.JPG)  
 
 
 
