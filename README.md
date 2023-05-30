@@ -43,7 +43,18 @@
 #### Требования к результату
 - [ ]  приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
-
+ ---
+ 
+ ### Выполнения задания 2
+ 
+ ![screen4](https://github.com/elekpow/hw-05/blob/main/Endpoint.JPG)  
+ 
+ 
+ ![screen5](https://github.com/elekpow/hw-05/blob/main/targets.JPG)  
+ 
+ 
+ 
+ 
  ---
 
 
