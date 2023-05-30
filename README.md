@@ -26,10 +26,10 @@
 
 ### Выполнения задания 2
 
- ![screen1](https://github.com/elekpow/hw-05/blob/main/Prometheus-Fireing.JPG)  
+ ![screen2](https://github.com/elekpow/hw-05/blob/main/Prometheus-Fireing.JPG)  
  
  
-  ![screen2](https://github.com/elekpow/hw-05/blob/main/Alertmanager-Instance-Down.JPG)  
+  ![screen3](https://github.com/elekpow/hw-05/blob/main/Alertmanager-Instance-Down.JPG)  
 
 
 
